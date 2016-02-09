@@ -1,0 +1,24 @@
+{
+  "user" : [
+    { "id" : 1,
+      "name": "John Doe"
+    },
+    { "id" : 2,
+      "name": "Rebeca Foo"
+    },
+    { "id" : 3,
+      "name": "Foo John"
+    }
+  ],
+  "roles" : [
+    { "id" : 1,
+      "name": "Role1"
+    },
+    { "id" : 2,
+      "name": "Role2"
+    },
+    { "id" : 3,
+      "name": "Role3"
+    }
+  ]
+}
